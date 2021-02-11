@@ -1,2 +1,15 @@
-# gerardpslowey.github.io
-This repo shows the progression of my 3rd year project with Gerard Slowey. Our project was an Android that helped users find places to meet for food &amp; drink. 
+Gerard Slowey and Michael Savage - 3rd Year Project Blog - TastyTravel
+
+Created with help from [Start Bootstrap](http://startbootstrap.com/).
+
+
+
+
+
+
+
+
+
+
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-blog-post/master/LICENSE)
